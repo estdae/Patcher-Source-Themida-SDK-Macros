@@ -1,0 +1,5 @@
+process: launcher.exe
+module: launcher.exe
+
+decimal:
+878702, 132, 133
